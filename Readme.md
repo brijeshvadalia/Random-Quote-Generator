@@ -15,7 +15,7 @@
 
 ![Gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1609865669335/9c_vcrn-E.gif)
 
-> # All About `Quote Generator` 😎
+> # All About `Random Quote Generator` 😎
 
 # **Gained expertise through this project :**
 
