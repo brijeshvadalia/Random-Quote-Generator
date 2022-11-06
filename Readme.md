@@ -43,12 +43,12 @@
 >![BADGE](https://img.shields.io/badge/NETLIFY-NETLIFY-blue)
 
 
-<!-- # HERE IS THE PREVIEW HOW THIS PROJECT LOOKS😍
+# HERE IS THE PREVIEW HOW THIS PROJECT LOOKS😍
 ># [LIVE [HOSTED] PROJECT LINK](https://brijesh8128-quote-generator.netlify.app/ "Quote Generator")
 
 >![Screenshot](./screenshot/screenshot-1.png)
 >![Screenshot](./screenshot/screenshot-2.png)
->![Screenshot](./screenshot/screenshot-3.png) -->
+>![Screenshot](./screenshot/screenshot-3.png)
 
 
 
