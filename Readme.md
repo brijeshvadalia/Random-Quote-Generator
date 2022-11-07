@@ -27,7 +27,7 @@
 
 - Learned about how to fetch API and display it in the website.
 
-- Also Learned All about API.
+- Also Learned All about API's.
 
 
 ># Designed With 😇
